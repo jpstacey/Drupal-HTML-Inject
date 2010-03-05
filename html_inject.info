@@ -1,0 +1,4 @@
+name = HTML Block Inject
+description = Pull trusted content directly from remote feeds
+dependencies[] = block
+core = 6.x

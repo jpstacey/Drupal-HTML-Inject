@@ -1,0 +1,4 @@
+HTML Inject
+-----------
+
+Unsafe (currently) HTML consumption from remote sites, beginning with a test case.
